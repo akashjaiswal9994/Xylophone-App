@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+ this app can play 7 tune of music. 
 
 This project is a starting point for a Flutter application.
 
